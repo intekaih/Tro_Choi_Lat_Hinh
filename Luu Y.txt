@@ -1,0 +1,5 @@
+game cua anh long
+quy trình làm game của thầy 
+tìm cái mới mẻ
+Sửa lại bản báo cáo theo quy trình của thầy
+Nói ra điểm bất lợi khi dùng pygame
